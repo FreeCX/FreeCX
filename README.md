@@ -1,1 +1,3 @@
-![img](https://w.wallhaven.cc/full/8x/wallhaven-8xqr52.png)
+<p align="center">
+    <img src="loop.gif" alt="gosper curve" width="320" height="324">
+</p>
